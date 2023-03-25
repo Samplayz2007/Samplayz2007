@@ -19,7 +19,7 @@
 
 - A passionate Self-taught Front-end developer and also some other... random stuff
 - Playing CTF's at spare time
-- Currently learning Web Development by abusing google and stackoverflow 😉
+- Currently learning Reverse Engineering by abusing google and stackoverflow 😉
 - Personal website [link](https://www.samcorp.com) (broken as of now lol) 
 
 <br><br>
