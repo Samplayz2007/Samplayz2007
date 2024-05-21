@@ -20,6 +20,9 @@
 - A passionate Self-taught Full-Stack developer
 - Currently learning Reverse Engineering by abusing google and stackoverflow 😉
 - Love playing CTF and Hackthons in my free time
+- Exploring the world of AI and Machine Learning with TensorFlow and PyTorch
+- Always excited to discuss the latest trends in tech and programming!
+- Aspiring to contribute to open-source projects that make a real-world impact
 
 <br>
 <br>
